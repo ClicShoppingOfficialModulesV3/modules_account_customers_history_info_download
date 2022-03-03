@@ -18,7 +18,7 @@
   class ac_account_customers_history_info_download {
 
     public string $code;
-    public $group;
+    public string $group;
     public $title;
     public $description;
     public ?int $sort_order = 0;
